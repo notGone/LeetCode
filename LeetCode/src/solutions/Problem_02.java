@@ -52,7 +52,7 @@ public class Problem_02 {
     return new Number(nUp, nDown);
   }
 
-  class Number {
+  class Number { 
     private int upNum;
     private int downNum;
 
